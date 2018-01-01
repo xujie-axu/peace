@@ -12,6 +12,9 @@ After reading this guide, you will know:
 
 ----------------------------------------------------------------------------------
 
+how to start a rails project
+------------------------------
+About how to start a brand new rails project, we can go to [Rails Guides](http://guides.rubyonrails.org/getting_started.html) to start a new project.
 
 some tips to build a project
 ---------------------------------
