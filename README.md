@@ -38,3 +38,11 @@ Especially, this project is built by many partners.
     git config --local user.email "email@example.com"
     git config --local user.name "your_name"
   ```
+
+### how to set empty message to commit.
+You know that, when we use "git commit -m ''" to commit code, we may see the warning: 'Aborting commit due to empty commit message.'
+If we really really don't wanna write the commit info, we can use this command:
+
+```ruby
+git commit -m  --allow-empty ''
+```
