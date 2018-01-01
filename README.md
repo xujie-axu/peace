@@ -9,9 +9,8 @@ This is a practice about how to start a **Ruby on Rails** project.
 After reading this guide, you will know:
 - how to start a **Rails** project from zero;
 - some tips to build a project.
+
 ----------------------------------------------------------------------------------
-
-
 
 
 some tips to build a project
